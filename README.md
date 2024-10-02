@@ -2,9 +2,13 @@
 
 # Hi there, I'm Sanket! 👋
 
-I'm a passionate Full-stack Developer based in Mumbai.I enjoy crafting web applications and solving problems. When I'm not coding, you can find me exploring the latest web development technologies and contributing to open-source projects.
+I'm a passionate Full-stack Developer based in Mumbai.I enjoy crafting web applications, Mobile app and solving problems. When I'm not coding, you can find me doing Trekking and bike riding.
 
 ## 🔧 Technologies & Tools
+
+- **Mobile (Android):**
+  - Languages: Kotlin
+  - Jetpack Compose, XML, Android Studio,Gradel
 
 - **Frontend:**
   - Languages: HTML, CSS, JavaScript (React.js)
@@ -24,9 +28,8 @@ I'm a passionate Full-stack Developer based in Mumbai.I enjoy crafting web appli
 
 ## 🌱 I'm currently learning
 
-- GraphQL
-- TypeScript
-- Advanced React patterns
+- Rust
+- Blockchain development
 
 ## 📫 How to reach me
 
