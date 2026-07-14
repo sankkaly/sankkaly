@@ -1,41 +1,136 @@
-# 💫 About Me:
+# Hi there, I'm Sanket Kalyankar 👋
 
-# Hi there, I'm Sanket! 👋
+<div align="center">
 
-I'm a passionate Full-stack Developer based in Mumbai.I enjoy crafting web applications, Mobile app and solving problems. When I'm not coding, you can find me doing Trekking and bike riding.
+### DevOps Engineer | Cloud Enthusiast | Learning MLOps & AI/ML
 
-## 🔧 Technologies & Tools
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Infrastructure+Enthusiast;Learning+MLOps+%26+AI%2FML;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-- **Mobile (Android):**
-  - Languages: Kotlin
-  - Jetpack Compose, XML, Android Studio,Gradel
+</div>
 
-- **Frontend:**
-  - Languages: HTML, CSS, JavaScript (React.js)
-  - Frameworks: React.js.
-  - Tools: Webpack, Babel, npm
+---
 
-- **Backend:**
-  - Languages: JavaScript (Node.js)
-  - Frameworks: Express.js
-  - Databases: MongoDB,SQL,Oracle.
-  - Tools: Postman
+## 🚀 About Me
 
-- **Other:**
-  - Version Control: Git, GitHub
-  - Deployment: Netlify.
-  - Containerization: Docker
+I'm a **DevOps Engineer** passionate about building scalable infrastructure, automating deployments, and improving developer productivity.
 
-## 🌱 I'm currently learning
+Currently, I'm expanding my expertise into **MLOps** and **AI/ML Engineering**, exploring how machine learning models can be deployed, monitored, and managed in production environments.
 
-- Rust
-- Blockchain development
+- 🌱 Currently learning **MLOps**, **Machine Learning**, and **AI Engineering**
+- ☁️ Interested in Cloud Infrastructure & Automation
+- ⚙️ Building CI/CD pipelines and Infrastructure as Code
+- 🐳 Containerization and Kubernetes enthusiast
+- 📖 Always learning something new
 
-## 📫 How to reach me
+---
 
-- Email: sanket03k@gmail.com
-- LinkedIn: www.linkedin.com/in/sanket-kalyankar
-- Twitter: https://twitter.com/sanket03k
+## 🛠️ Tech Stack
 
-Let's connect and build something amazing together!
+### DevOps
 
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,aws,git,github,bash,nginx" />
+</p>
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs" />
+</p>
+
+### AI / ML & MLOps (Learning)
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+Learning:
+- MLflow
+- Kubeflow
+- Docker for ML
+- Kubernetes for ML Workloads
+- Model Deployment
+- LLM Applications
+- Vector Databases
+- RAG
+- LangChain
+
+---
+
+## 📚 Currently Learning
+
+- MLOps Best Practices
+- Machine Learning Fundamentals
+- Deep Learning
+- AI Agents
+- LLM Applications
+- Kubernetes Advanced Concepts
+- Terraform Modules
+- AWS DevOps Services
+- GitHub Actions
+- Monitoring & Observability
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Master DevOps
+- 🚀 Build Production-grade MLOps Projects
+- 🤖 Learn AI/ML Engineering
+- ☁️ Earn Advanced Cloud Certifications
+- 🏗️ Contribute to Open Source
+- 📝 Share Learning Journey
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> *"Automate everything. Learn continuously. Build for scale."*
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- 🌐 Portfolio: https://YOUR_PORTFOLIO
+- 📧 Email: your.email@example.com
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
