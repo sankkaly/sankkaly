@@ -14,9 +14,8 @@
 
 I'm a **DevOps Engineer** passionate about building scalable infrastructure, automating deployments, and improving developer productivity.
 
-Currently, I'm expanding my expertise into **MLOps** and **AI/ML Engineering**, exploring how machine learning models can be deployed, monitored, and managed in production environments.
+Currently, I'm expanding my expertise into **DevOps**
 
-- 🌱 Currently learning **MLOps**, **Machine Learning**, and **AI Engineering**
 - ☁️ Interested in Cloud Infrastructure & Automation
 - ⚙️ Building CI/CD pipelines and Infrastructure as Code
 - 🐳 Containerization and Kubernetes enthusiast
@@ -44,26 +43,11 @@ Currently, I'm expanding my expertise into **MLOps** and **AI/ML Engineering**, 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-Learning:
-- MLflow
-- Kubeflow
-- Docker for ML
-- Kubernetes for ML Workloads
-- Model Deployment
-- LLM Applications
-- Vector Databases
-- RAG
-- LangChain
-
 ---
 
 ## 📚 Currently Learning
 
 - MLOps Best Practices
-- Machine Learning Fundamentals
-- Deep Learning
-- AI Agents
-- LLM Applications
 - Kubernetes Advanced Concepts
 - Terraform Modules
 - AWS DevOps Services
@@ -123,9 +107,8 @@ Learning:
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- 🌐 Portfolio: https://YOUR_PORTFOLIO
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/sanket-kalyankar
+- 📧 Email: sanket03k@gmail.com
 
 ---
 
