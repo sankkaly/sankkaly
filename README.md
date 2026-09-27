@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### DevOps Engineer | Cloud Enthusiast | Learning MLOps & AI/ML
+### Aspiring DevOps Engineer | Cloud Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Infrastructure+Enthusiast;Learning+MLOps+%26+AI%2FML;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -37,17 +37,10 @@ Currently, I'm expanding my expertise into **DevOps**
 <img src="https://skillicons.dev/icons?i=python,javascript,nodejs" />
 </p>
 
-### AI / ML & MLOps (Learning)
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
 ---
 
 ## 📚 Currently Learning
 
-- MLOps Best Practices
 - Kubernetes Advanced Concepts
 - Terraform Modules
 - AWS DevOps Services
@@ -59,8 +52,6 @@ Currently, I'm expanding my expertise into **DevOps**
 ## 🎯 2026 Goals
 
 - ✅ Master DevOps
-- 🚀 Build Production-grade MLOps Projects
-- 🤖 Learn AI/ML Engineering
 - ☁️ Earn Advanced Cloud Certifications
 - 🏗️ Contribute to Open Source
 - 📝 Share Learning Journey
