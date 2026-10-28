@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Aspiring DevOps Engineer | Cloud Enthusiast 
+### DevOps Engineer | Cloud Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Infrastructure+Enthusiast;Learning+MLOps+%26+AI%2FML;Always+Learning+New+Technologies" alt="Typing SVG" />
 
